@@ -28,5 +28,4 @@ public class Solution {
         else tail.next = list2;
         return dummy.next;
     }
-
 }
